@@ -4,3 +4,10 @@
 - Assignment 3: Supervised, Linear regression, Logistic regression
 - Assignment 4: quiz
 - Assignment 5: Support Vector Machine (SVM), Decision Tree, Random Forest, KNN
+
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
