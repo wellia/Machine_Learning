@@ -3,4 +3,4 @@
 - Housing EDA
 - Clustering (Unsupervised), PCA
 - Weather dataset: Supervised, Linear regression, Logistic regression
-- Support Vector Machine (SVM), Decision Tree, Random Forest, KNN
+- Kidney Disease: Support Vector Machine (SVM), Decision Tree, Random Forest, KNN
